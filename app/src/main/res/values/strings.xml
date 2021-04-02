@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Sparrow</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_speak">Speak</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <!--Talkie-->
+    <string name="room_title_settings" translatable="false">Talkie Setting</string>
+    <string name="room_id_random" translatable="false">roomId</string>
+    <string name="join" translatable="false">Join</string>
+    <string name="create_new_room_text" translatable="false">Create New Room</string>
+    <string name="create_new_room" translatable="false">Create New Room</string>
+    <string name="join_the_existing_room" translatable="false">Join the existing room</string>
+    <string name="room_id" translatable="false">Room ID : </string>
+    <string name="room_id_join" translatable="false">Input Room ID</string>
+    <string name="generate_roomId" translatable="false">Generating RoomId....</string>
+    <string name="your_room_id" translatable="false">Your Room ID:</string>
+    <string name="share" translatable="false">Share</string>
+    <string name="exit_from_room" translatable="false">Exit from room</string>
+    <string name="text_copied" translatable="false">RoomID Copied</string>
+    <!--Talkie Dialog settings-->
+    <string name="new_room_title" translatable="false">New Room</string>
+    <string name="new_room" translatable="false">New room is created</string>
+    <string name="dialog_button" translatable="false">Enter the room</string>
+    <string name="room_connect" translatable="false">Connect</string>
+    <string name="room_exit" translatable="false">Exit Room</string>
+    <string name="room_disconnect" translatable="false">Dis connect</string>
+    <string name="pref_key_room_status" translatable="false">"roomStatus"</string>
+    <string name="subject" translatable="false">Room ID To Connect : </string>
+    <string name="title_share" translatable="false">Share Your Room Id</string>
+
+    <string name="talkie_enable" translatable="false">Talkie</string>
+    <string name="error_message">Please enter valid Room Name</string>
+    <string name="success_post_message_talkie">Audio file posted successfully</string>
+    <string name="talkie_post_failure">File Posting Failed!!!</string>
+    <string name="talkie_exist" translatable="false">Exit Room</string>
+    <string name="connected_members" translatable="false">Connected Members</string>
+
+</resources>
